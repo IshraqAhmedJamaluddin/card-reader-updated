@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+*.pyc
+method.md
+example/
+result/
